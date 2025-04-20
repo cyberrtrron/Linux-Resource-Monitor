@@ -8,6 +8,9 @@ A simple GUI-based Linux system process monitor built using Python and Tkinter. 
 - Easy GUI using Tkinter
 - Refresh button to update data
 
+## Snapshot of the tool
+![Linux Resource Manager](https://github.com/cyberrtrron/Linux-Resource-Monitor/blob/main/LogScreen.png)
+
 ## Setup
 ```bash
 git clone <repo_url>
